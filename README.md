@@ -2,7 +2,7 @@
 
 A simple interactive web app that will allow you to organize your personal to-do list items by using a dropdown menu to change the task status and move the task into To Do, In Progress, and Completed lists.
 
-![screencapture-masuamah-github-io-taskinator-2021-05-06-13_44_38](https://user-images.githubusercontent.com/77217156/117342569-668d3600-ae71-11eb-888c-ad16ebeaf53a.png)
+![screencapture-masuamah-github-io-taskinator-2021-05-06-18_31_29](https://user-images.githubusercontent.com/77217156/117381192-84768d00-aea9-11eb-9ff4-014c76b2f1fc.png)
 
 ## How to Use
 * Enter a task name, pick a task type, and click add task.
