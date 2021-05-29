@@ -15,8 +15,8 @@ Each added tasks will feature a drop-down menu that you can use for updating the
 ### Edit a Task
 To edit a task click the edit button on the corresponding task. The input fields will re-populate for you to update the task click save task to complete the update.
 
-### Delete Tasks
-To delete tasks, click the delete task button on the corresponding task. The task will be permanently deleted.
+### Delete a Task
+To delete a task, click the delete task button on the corresponding task. The task will be permanently deleted.
 
 ## Built With
 
